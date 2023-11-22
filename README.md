@@ -1,12 +1,12 @@
 # deep-learning-challenge
 
-Charitable Project Funding Prediction Model
+**Charitable Project Funding Prediction Model**
 
-Overview
+**Overview**
 
 This repository contains a binary classifier model aimed at predicting the funding success of charitable projects. The analysis involves thorough data preprocessing, model compilation, training, and an optimization strategy.
 
-Contents
+**Contents**
 
 Code: Jupyter Notebook and Python script files.
 
@@ -17,7 +17,7 @@ Data: Raw and preprocessed datasets.
 Model: Saved model files.
 
 
-Process
+**Process**
 
 Data Preprocessing:
 Drop irrelevant columns (EIN, NAME).
@@ -47,7 +47,7 @@ Model Optimization:
 Focus on binning the "NAME" column for enhanced patterns.
 
 
-Outcome:
+**Outcome:**
 
 
 Initial accuracy: 72%.
@@ -56,7 +56,7 @@ Initial accuracy: 72%.
 Optimized accuracy: 78%.
 
 
-Results
+**Results**
 
 Initial Accuracy: 72%
 
@@ -70,12 +70,3 @@ Optimized Accuracy: 78%
 Optimization Strategy: Binning the "NAME" column.
 
 
-How to Use
-
-Ensure Python and necessary libraries are installed.
-
-
-Run the Jupyter Notebook or Python script for model implementation.
-
-
-Explore the preprocessed data and trained model for insights.
